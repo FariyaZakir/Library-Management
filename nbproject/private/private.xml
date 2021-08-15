@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Controller/Library.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Controller/LibrarianForm.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Controller/DeleteLibrarian.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Controller/ReturnBook.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Model/IssueBookDao.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Model/DB.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Controller/LibrarianLogin.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Model/BookDao.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Model/LibrarianDao.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Model/ReturnBookDao.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Controller/BooksForm.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/View/ViewIssuedBooks.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Controller/AdminLogin.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/View/ViewLibrarian.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Controller/LibrarianSuccess.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/View/ViewBooks.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Controller/IssueBookForm.java</file>
+            <file>file:/E:/Study/CSE/CSE470/Library_Management/src/Controller/AdminSuccess.java</file>
+        </group>
+    </open-files>
+</project-private>
